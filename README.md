@@ -1,1 +1,1 @@
-# First_project
+# This project was supposed to be site that will show you a picture or picutres of what user put in search bar . Site as a site is completed and works as it should be, but main problem is that API isn't working due to subscription wasn't made and it won't show any picture or pictures, but only loadingthat won't load any of it.  
